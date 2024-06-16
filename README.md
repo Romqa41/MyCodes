@@ -1,2 +1,2 @@
-# MyCodes
+# Yandex Data Science
 My codes
